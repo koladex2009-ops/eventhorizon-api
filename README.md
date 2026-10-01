@@ -120,3 +120,15 @@ A Postman collection is included (`postman_collection.json`) with pre-configured
 - Email verification tokens are hashed (SHA-256) before being stored in the database — only the raw token sent via email can be used to verify.
 - Verification tokens expire after 1 hour.
 - Unverified users cannot log in or access protected routes.
+
+
+## Live Deployment
+
+The API is deployed on Render:
+
+[https://eventhorizon-api.onrender.com](https://eventhorizon-api.onrender.com)
+
+You can test the deployed API using this base URL:
+
+```text
+https://eventhorizon-api.onrender.com
