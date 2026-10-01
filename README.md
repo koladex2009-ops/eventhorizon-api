@@ -126,9 +126,9 @@ A Postman collection is included (`postman_collection.json`) with pre-configured
 
 The API is deployed on Render:
 
-[https://eventhorizon-api.onrender.com](https://eventhorizon-api.onrender.com)
+[https://eventhorizon-api-j1wy.onrender.com/](https://eventhorizon-api-j1wy.onrender.com/)
 
 You can test the deployed API using this base URL:
 
 ```text
-https://eventhorizon-api.onrender.com
+https://eventhorizon-api-j1wy.onrender.com/
